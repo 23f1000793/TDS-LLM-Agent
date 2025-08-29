@@ -28,6 +28,14 @@ Modern LLM agents aren’t limited to text — they dynamically integrate multip
 - Performance monitor & tool action logging for debugging.  
 
 ---
+---
+
+## 🌐 Live Demo
+
+You can try the deployed version here:  
+👉 [tdsllmagent.vercel.app](https://tdsllmagent.vercel.app)
+
+---
 
 ## 📋 Project Overview
 
@@ -72,7 +80,7 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/23f1000793/TDS_PPT_Maker
+   git clone https://github.com/23f1000793/TDS_PPT_Maker.git
    cd tds-bonus-project-LLM-Agent
    ```
 
